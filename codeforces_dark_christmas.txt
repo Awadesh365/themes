@@ -3,7 +3,8 @@
 INVERT
 .jfk-bubble.gtx-bubble
 .captcheck_answer_label > input + img
-
+    
+    
 CSS
 .vimvixen-hint {
     background-color: ${#ffd76e} !important;
